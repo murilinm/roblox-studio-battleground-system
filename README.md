@@ -1,3 +1,3 @@
 mouse1: punch <br>
-E key: kamehameha
+E key: kamehameha <br>
 Q key: dash
